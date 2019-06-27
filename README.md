@@ -49,6 +49,13 @@ python -m pip install -r requirements.txt --user
 #### Folders
 The folders contained are those within which raw or processed data (or 'datasets') following various Treatments are stored. The first number (1 to 4) refers to the original raw dataset from which all other data is derived. The second number is merely sequential with respect to the order of data processing, with 1 referring to the raw dataset and 2 or higher referring to processed datasets. Further, there are six folders referring to specific Figures, as additional processing was needed for these figures prior to compiling in Inkscape.  
 
+#### Run notebooks
+Start in the directory that contains the notebooks (*.ipynb)
+```bash
+python -m jupyter notebook --MappingKernelManager.root_dir='...'
+```
+where the root directory is the directory that contains all datasets.
+
 ---
 ---
 ## Raw data
