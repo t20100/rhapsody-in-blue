@@ -1,0 +1,14 @@
+# Usage: 
+#   python -m pip install -r requirements.txt --user
+# Usage (within python virtual environment):
+#   python -m pip install -r requirements.txt
+
+jupyter
+numpy
+scipy
+pandas
+scikit-image
+matplotlib
+h5py
+tables
+imageio
