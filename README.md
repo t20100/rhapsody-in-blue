@@ -78,7 +78,7 @@ Below is a summary of the files contained/produced in each dataset; this informa
 - 'P-750' = scan #s 179, 185, 191
 
 **Dataset_12**
-> 2015_avg_P020.txt <br> 2015_avg_P415.txt <br> 2015_avg_P600.txt <br> 2015_avg_P750.txt
+> 2015_avg_P020.csv <br> 2015_avg_P415.csv <br> 2015_avg_P600.csv <br> 2015_avg_P750.csv
 
 **Dataset_21** *filenames consistent with those at ESRF*
 > 20Vpow_1.h5 <br> 415pow_1.hf <br> 600Vpow_1.h5 <br> 750Vpow_1.h5 <br> 20VoilL4.h5 <br> 750VL4.h5
@@ -270,7 +270,7 @@ Below is a summary of the files needed and produced for specific figures; this i
 ### Input
 **Dataset_12** 
 > *average normalized spectra from pastello treatment (unfocussed beam)* <br>
-2015_avg_P020.txt <br> 2015_avg_P415.txt <br> 2015_avg_P600.txt <br> 2015_avg_P750.txt
+2015_avg_P020.csv <br> 2015_avg_P415.csv <br> 2015_avg_P600.csv <br> 2015_avg_P750.csv
 
 **Dataset_25**
 > *average normalized spectra from heavy-liquid treatment (full-field)* <br>
