@@ -36,10 +36,25 @@ All of the figures in the paper corresponding to XANES data (unfocussed, microbe
 ---
 #### Jupyter notebooks
 The Jupyter notebooks contained are numbered 01 to 17. To produce the final figures, the data underwent varying degrees of processing (or 'Treatments'). To successfully reproduce the final figures, notebooks should be run sequentially. At the start of each notebook, a summary of the input data, objective, program required, and output data is provided for reference. Further pertinent instructions are provided throughout each notebook.
-Version: Jupyter notebook 5.5.0, Python 3.6.5.
+
+Required versions: Jupyter notebook >=5.5, Python >=3.4.
+
+
+#### Install requirements
+All python packages required to run the notebooks can be install with this command:
+```bash
+python -m pip install -r requirements.txt --user
+```
 
 #### Folders
 The folders contained are those within which raw or processed data (or 'datasets') following various Treatments are stored. The first number (1 to 4) refers to the original raw dataset from which all other data is derived. The second number is merely sequential with respect to the order of data processing, with 1 referring to the raw dataset and 2 or higher referring to processed datasets. Further, there are six folders referring to specific Figures, as additional processing was needed for these figures prior to compiling in Inkscape.  
+
+#### Run notebooks
+Start in the directory that contains the notebooks (*.ipynb)
+```bash
+python -m jupyter notebook --MappingKernelManager.root_dir='...'
+```
+where the root directory is the directory that contains all datasets.
 
 ---
 ---
