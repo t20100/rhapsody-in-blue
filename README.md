@@ -5,15 +5,14 @@ This repository is a companion to the following paper:
 
 > **Sulfur K-edge Micro- and Full-field XANES Identifies Marker for Preparation Method of Ultramarine Pigment from Lapis Lazuli in Historical Paints** <br>
 Alessa A. Gambardella (1), 
-Marine Cotte (2,3), 
+Marine Cotte (2,3)$, 
+Wout de Nolf (2)$, 
 Kokkie Schnetz (4), 
-Wout de Nolf (2), 
 Rob Erdmann (1,5)
 Roel van Elsas (6),
 Victor Gonzalez (1),
-Arie Wallert (1,7),
-Piet D. Iedema (4),
-Myriam Eveno (8,9),
+Arie Wallert (1),
+Myriam Eveno (7,8),
 Katrien Keune (1,4) <br>
 > 1. Rijksmuseum, Conservation and Science, Hobbemastraat 22, 1071 ZC, Amsterdam, The Netherlands
 > 2. European Synchrotron Radiation Facility (ESRF), 71 Avenue des Martyrs, 38000, Grenoble, France
@@ -21,9 +20,9 @@ Katrien Keune (1,4) <br>
 > 4. Van’t Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, 1090 GD, Amsterdam, The Netherlands
 > 5. Conservation and Restoration, University of Amsterdam, Johannes Vermeerplein 1, 1071 DV, Amsterdam, The Netherlands
 > 6. Vrije Universiteit, De Boelelaan 1105, 1081 HV, Amsterdam, The Netherlands
-> 7. ....
-> 8. Centre de Recherche et de Restauration de Musées de France, 14 Quai François Mitterrand, Palais du Louvre, 75001, Paris France
-> 9. PSL Research University, Chimie ParisTech – CNRS, Institut de Recherche Chimie Paris, UMR8247, 75005, Paris, France <br> <br>
+> 7. Centre de Recherche et de Restauration de Musées de France, 14 Quai François Mitterrand, Palais du Louvre, 75001, Paris France
+> 8. PSL Research University, Chimie ParisTech – CNRS, Institut de Recherche Chimie Paris, UMR8247, 75005, Paris, France <br> <br>
+$ equal contributions
 **Abstract:** *Ultramarine blue pigment from lapis lazuli is one of the most valued natural artist’s pigments used throughout history for its brilliant hue. Historical recipes describe various pigment preparation methods, however, little is understood about why such treatments were performed or how to distinguish them a posteriori on historical paintings. One such historically relevant treatment is heating of the lapis lazuli rock prior to extracting lazurite. X-ray absorption near-edge structure spectroscopy (XANES) at the sulfur K-edge in microbeam and full-field modes (analyzed with non-negative matrix factorization, NMF) is employed to monitor the changes in the sulfur species within lazurite following treatments. Sulfur signatures in lazurite show dependence on the heat-treatment of lapis lazuli rock from which it is derived. In particular, peaks at 2469.0 and 2471.2 eV, attributed to contributions from the trisulfur radical (S3•⁃), which is responsible for the blue color of lazurite, increase in relative intensity with heat of treatment ≥ 600 °C, paralleled by an intensified blue hue. The peak at 2472.5 eV (presumed as S8), on the other hand, decreases in relative intensity. The sulfur signature following heat-treatment is not only unique but also retained following accelerated aging of each pigment mixed as a paint with linseed oil. Further, XANES spectra using an attenuated focused microbeam were gathered on lazurite particles from five historical paint samples. In each, profiles matching that of pigment derived from heat-treated rock were identified, providing a marker for artists’ pigments that had been extracted from heat-treated lapis lazuli.*
 
 The aim of this repository is to allow reproducibilty of the processed results presented in the publication from experimentally obtained raw data. The intention is that the presented research is fully reproducible. Efforts have been made to the best of the authors' abilities to make the data -- and associated processing procedures -- 'FAIR' (i.e. findable, accessible, interoperable, and reusable) in support of the growing Open Science movement. 
