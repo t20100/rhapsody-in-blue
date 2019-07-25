@@ -326,17 +326,17 @@ c_2018_S18500_vals_050only_date_1.csv
 >>**Figure_5**
 >>> Figure5_date_S18500_1.svg
 
-## Figure SI3 
+## Figure RAD (i.e. Figure S7) 
 >### Input
 >>**Dataset_RAD**
 >>> *normalized consequetive scans on same spot (microbeam)* <br>
 c_2017_MH0169_1a_044_054to058.dat
 
 >### Output (Input for Inkscape)  
->>**Figure_SI3**
->>>  FigureSI3_date_1.svg
+>>**Figure_RAD**
+>>>  FigureRAD_date_1.svg
 
-## Figure SI8
+## Figure Paint (i.e. Figure S6)
 >### Input
 >>**Dataset_33**
 >>> *average normalized spectra per particle for a other paintings (attenutated microbeam)* <br>
@@ -387,11 +387,11 @@ c_2018_S18506_vals_048to054_date_1.csv <br>
 c_2018_S18506_vals_055to059_date_1.csv 
 
 >### Output (Input for Inkscape)
->>**Figure_SI8**
->>> FigureSI8_date_MH0170_1.svg <br>
-FigureSI8_date_SKA2102_1.svg <br>
-FigureSI8_date_MH0284X07b_1.svg <br>
-FigureSI8_date_S18506_1.svg <br>
+>>**Figure_Paint**
+>>> FigurePaint_date_MH0170_1.svg <br>
+FigurePaint_date_SKA2102_1.svg <br>
+FigurePaint_date_MH0284X07b_1.svg <br>
+FigurePaint_date_S18506_1.svg <br>
 
 ---
 ---
@@ -423,7 +423,7 @@ spec_H750_norm_diff31_of_3_date_0.svg (1st & 2nd)
 H750_norm_notix_1st_date_cursors_um_0.svg <br>
 H750_norm_notix_2nd_date_cursors_um_0.svg <br>
 
-## Figure SI5a
+## Figure S2 A
 >**Dataset_29**
 >> *consequentive normalized spectra across two particles (full-field)* <br>
 spec_H020_norm_diff31_of_3_date_0.svg <br> 
@@ -441,7 +441,7 @@ H600_norm_notix_2nd_date_cursors_um_0.svg <br><br>
 H750_norm_notix_3rd_date_cursors_um_0.svg <br>
 H750_norm_notix_4th_date_cursors_um_0.svg <br>
 
-## Figure SI5b (larger version of Figure 2, for indicating other particles)
+## Figure S2 B (larger version of Figure 2, for indicating other particles)
 >**Dataset_28**
 >> *without tick labels for figure presentation, false-colored images based on NMF components (from full-field)* <br>
 H020_normnotix_diff31_of_3_date_0.svg <br> 
@@ -449,7 +449,7 @@ H415_normnotix_diff31_of_3_date_0.svg <br>
 H650_normnotix_diff31_of_3_date_0.svg <br> 
 H750_normnotix_diff31_of_3_date_0.svg <br> 
 
-## Figure SI6
+## Figure S3
 >**Dataset_28**
 >> *without tick labels for figure presentation* <br>
 H020oilL4_normnotix_diff31_of_3_date_0.svg <br> 
