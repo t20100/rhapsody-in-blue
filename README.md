@@ -57,9 +57,12 @@ where the root directory is the directory that contains all datasets.
 
 ---
 ---
-## Raw data
+## Raw and pre-processed data
 ---
-Four raw datasets are necessary to produce the final figures. Links to the raw data are within the notebooks or alternatively available below:
+Four raw datasets are necessary to produce the final figures. Processing instructions for these are described in the manuscript text.
+> Dataset_10 <br> Dataset_20 <br> Dataset_30 <br> Dataset_40
+
+The notebooks included in this repository begin with the following pre-processed datsets, of which links are provided within the notebooks or alternatively available below:
 > Dataset_11 <br> Dataset_21 <br> Dataset_31 <br> Dataset_41
 
 ---
