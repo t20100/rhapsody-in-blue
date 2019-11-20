@@ -12,6 +12,7 @@ Rob Erdmann (1,5)
 Roel van Elsas (6),
 Victor Gonzalez (1),
 Arie Wallert (1),
+Piet D. Iedema (4),
 Myriam Eveno (7,8),
 Katrien Keune (1,4) <br>
 > 1. Rijksmuseum, Conservation and Science, Hobbemastraat 22, 1071 ZC, Amsterdam, The Netherlands
@@ -38,7 +39,6 @@ The Jupyter notebooks contained are numbered 01 to 17. To produce the final figu
 
 Required versions: Jupyter notebook >=5.5, Python >=3.4.
 
-
 #### Install requirements
 All python packages required to run the notebooks can be install with this command:
 ```bash
@@ -46,7 +46,10 @@ python -m pip install -r requirements.txt --user
 ```
 
 #### Folders
-The folders contained are those within which raw or processed data (or 'datasets') following various Treatments are stored. The first number (1 to 4) refers to the original raw dataset from which all other data is derived. The second number is merely sequential with respect to the order of data processing, with 1 referring to the raw dataset and 2 or higher referring to processed datasets. Further, there are six folders referring to specific Figures, as additional processing was needed for these figures prior to compiling in Inkscape.  
+The folders contained are those within which raw or processed data (or 'datasets') following various Treatments are stored. The first number (1 to 4) refers to the original raw dataset from which all other data is derived. The second number is merely sequential with respect to the order of data processing, with 0 referring to the raw datasets, 1 referring to the pre-processed datasets, and 2 or higher referring to processed datasets. Further, there are six folders referring to specific Figures, as additional processing was needed for these figures prior to compiling in Inkscape.  
+
+#### Data
+Data from each dataset described below (raw, pre-processed, and processed) is available at doi:10.15151/ESRF-DC-186933507 <doi:10.15151/ESRF-DC-186933507> for downloading. Select 'Access Data' and log-in anonymously.
 
 #### Run notebooks
 Start in the directory that contains the notebooks (*.ipynb)
@@ -57,12 +60,12 @@ where the root directory is the directory that contains all datasets.
 
 ---
 ---
-## Raw and pre-processed data
+## Summary of raw and pre-processed datasets
 ---
 Four raw datasets are necessary to produce the final figures. Processing instructions for these are described in the manuscript text.
 > Dataset_10 <br> Dataset_20 <br> Dataset_30 <br> Dataset_40
 
-The notebooks included in this repository begin with the following pre-processed datsets, of which links are provided within the notebooks or alternatively available below:
+The notebooks included in this repository begin with inputs from the following pre-processed datsets:
 > Dataset_11 <br> Dataset_21 <br> Dataset_31 <br> Dataset_41
 
 ---
@@ -72,7 +75,7 @@ The notebooks included in this repository begin with the following pre-processed
 
 Below is a summary of the files contained/produced in each dataset; this information is similarly provided within the notebooks. Of note, all lazurite derived from rock without heat-treatment (i.e. 'RT' in the publication text) are referred to as '020' in the datasets.
 
-**Dataset_11** *(filename consistent with that at ESRF)*
+**Dataset_11** *filename consistent with that at ESRF*
 > 15092501.dat <br> 
 - 'P-020' = scan #s 123, 129, 135 <br> 
 - 'P-415' = scan #s 141, 147, 153 <br> 
