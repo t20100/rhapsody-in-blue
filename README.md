@@ -49,7 +49,7 @@ python -m pip install -r requirements.txt --user
 The folders contained are those within which raw or processed data (or 'datasets') following various Treatments are stored. The first number (1 to 4) refers to the original raw dataset from which all other data is derived. The second number is merely sequential with respect to the order of data processing, with 0 referring to the raw datasets, 1 referring to the pre-processed datasets, and 2 or higher referring to processed datasets. Further, there are six folders referring to specific Figures, as additional processing was needed for these figures prior to compiling in Inkscape.  
 
 #### Data
-Data from each dataset described below (raw, pre-processed, and processed) is available at doi:10.15151/ESRF-DC-186933507 <doi:10.15151/ESRF-DC-186933507> for downloading. Select 'Access Data' and log-in anonymously.
+Data from each dataset described below (raw, pre-processed, and processed) is available at doi:10.15151/ESRF-DC-186933507 (doi:10.15151/ESRF-DC-186933507) for downloading. Select 'Access Data' and log-in anonymously.
 
 #### Run notebooks
 Start in the directory that contains the notebooks (*.ipynb)
