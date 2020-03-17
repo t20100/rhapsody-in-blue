@@ -13,6 +13,7 @@ dependencies:
   - imageio
   - seaborn
   - pymca
+  - ipywidgets
   - websockify
   - pip:
     - -e git://github.com/yuvipanda/jupyter-desktop-server.git#egg=jupyter-desktop-server
