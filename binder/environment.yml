@@ -9,7 +9,7 @@ dependencies:
   - scikit-learn
   - matplotlib
   - h5py
-  - tables
+  - pytables
   - imageio
   - seaborn
   - pymca
