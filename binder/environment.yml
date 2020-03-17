@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - manics
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - h5py
+  - tables
+  - imageio
+  - seaborn
+  - pymca
+  - websockify
+  - pip:
+    - -e git://github.com/yuvipanda/jupyter-desktop-server.git#egg=jupyter-desktop-server
