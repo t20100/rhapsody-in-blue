@@ -39,7 +39,7 @@ The Jupyter notebooks contained are numbered 01 to 17. To produce the final figu
 
 Required versions: Jupyter notebook >=5.5, Python >=3.4.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t20100/rhapsody-in-blue/binder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t20100/rhapsody-in-blue/binder?filepath=introduction.ipynb
 
 #### Install requirements
 All python packages required to run the notebooks can be install with this command:
