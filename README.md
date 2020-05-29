@@ -40,6 +40,7 @@ The Jupyter notebooks contained are numbered 01 to 17. To produce the final figu
 Required versions: Jupyter notebook >=5.5, Python >=3.4.
 
 * [![myBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t20100/rhapsody-in-blue/binder?filepath=introduction.ipynb) on [myBinder](https://mybinder.org/)
+* [![BinderPanoscFedCloud](https://binder-panosc.fedcloud-tf.fedcloud.eu/badge_logo.svg)](https://binder-panosc.fedcloud-tf.fedcloud.eu/v2/gh/t20100/rhapsody-in-blue/binder?filepath=introduction.ipynb) on [BinderPanosc](https://binder-panosc.fedcloud-tf.fedcloud.eu/)
 * [![gesisBinder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/t20100/rhapsody-in-blue/binder?filepath=introduction.ipynb) on [gesis](https://notebooks.gesis.org/binder/)
 
 #### Install requirements
